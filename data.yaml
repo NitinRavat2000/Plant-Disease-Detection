@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/PrinceResnetYoloCode/new_plant_data/train/images
+val: /content/drive/MyDrive/PrinceResnetYoloCode/new_plant_data/val/images
+# test: ../test/images
+
+nc: 4
+names: ['Army_worm','Bacterial_Blight','Healthy','Powdery_Mildew']
